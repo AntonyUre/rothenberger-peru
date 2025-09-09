@@ -404,7 +404,7 @@ nav {
   /* margin: 28px 16px; */
   /* border-radius: 12px; */
   overflow: hidden;
-  background-image: url('./images/product-bg.jpg');
+  background-image: url('../images/product-bg.jpg');
   background-size: cover;
   background-position: center;
   /* filter: contrast(.9) brightness(.6); */
